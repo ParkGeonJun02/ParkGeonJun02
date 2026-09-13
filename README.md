@@ -12,7 +12,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![iperf3](https://img.shields.io/badge/iperf3-1A73E8?style=flat-square&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
 `C-V2X` `DDQN` `Network Quality` `Image Segmentation`
 `Array Signal Processing` `Beamforming` `System Verification`
