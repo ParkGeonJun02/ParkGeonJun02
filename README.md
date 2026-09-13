@@ -33,16 +33,6 @@
 
 [프로젝트 상세 보기](https://github.com/ParkGeonJun02/Capstone-Project-Adaptive-CP-Algorithm)
 
-### Smart Antenna Beamforming Analysis
-
-15소자 ULA 환경에서 Chebyshev 가중치 기반 빔패턴 형성, 빔 조향, 비등간격 배열의 Least Squares 가중치 보상을 분석한 MATLAB 프로젝트입니다.
-
-- Chebyshev 가중치를 적용한 기준 빔패턴과 부엽 수준 확인
-- -60°부터 +60°까지 10° 간격 빔 조향 비교
-- 비등간격 배열에서 기준 패턴과 Least Squares 보상 결과 비교
-
-[프로젝트 상세 보기](https://github.com/ParkGeonJun02/smart-antenna-beamforming-analysis)
-
 ### Dense WLAN AP Quality Evaluation
 
 실측 Wi-Fi 환경에서 RSSI, RTT, 채널 사용률을 활용해 AP 품질을 평가하고 추천하는 프로젝트입니다.
@@ -62,6 +52,16 @@
 - Hybrid Pipeline 후처리와 정량 성능 비교
 
 [프로젝트 상세 보기](https://github.com/ParkGeonJun02/unet-han-river-riparian-zone-detection)
+
+### Smart Antenna Beamforming Analysis
+
+15소자 ULA 환경에서 Chebyshev 가중치 기반 빔패턴 형성, 빔 조향, 비등간격 배열의 Least Squares 가중치 보상을 분석한 MATLAB 프로젝트입니다.
+
+- Chebyshev 가중치를 적용한 기준 빔패턴과 부엽 수준 확인
+- -60°부터 +60°까지 10° 간격 빔 조향 비교
+- 비등간격 배열에서 기준 패턴과 Least Squares 보상 결과 비교
+
+[프로젝트 상세 보기](https://github.com/ParkGeonJun02/smart-antenna-beamforming-analysis)
 
 ## Tools
 
