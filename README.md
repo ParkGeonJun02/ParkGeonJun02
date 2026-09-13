@@ -69,15 +69,6 @@
 
 [프로젝트 상세 보기](https://github.com/ParkGeonJun02/smart-antenna-beamforming-analysis)
 
-## Tools
-
-| Tool | Application |
-| --- | --- |
-| MATLAB | 통신 시뮬레이션, 배열 신호처리, 데이터 분석, 성능지표 계산, 결과 시각화 |
-| Python | 영상 처리, 결과 분석, 후처리, 정량 비교 |
-| iperf3 | 실측 네트워크 전송성능 측정 |
-| GitHub | 코드, 실험 결과, 프로젝트 문서 관리 |
-
 ---
 
 > Building reliable systems through scenario-based analysis and quantitative verification.
