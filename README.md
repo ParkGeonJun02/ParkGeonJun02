@@ -7,8 +7,13 @@
 운용 시나리오와 성능지표를 설계하고,  
 비교검증으로 요구성능을 확인하는 예비 시스템 엔지니어입니다.
 
-`System Engineering` `Wireless Communication` `Array Signal Processing`  
-`Verification` `MATLAB` `Python` `Data Analysis`
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![iperf3](https://img.shields.io/badge/iperf3-1A73E8?style=flat-square&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+
+`C-V2X` `DDQN` `Network Quality` `Image Segmentation`
+`Array Signal Processing` `Beamforming` `System Verification`
 
 </div>
 
