@@ -59,7 +59,7 @@
 
 [프로젝트 상세 보기](https://github.com/ParkGeonJun02/unet-han-river-riparian-zone-detection)
 
-### Smart Antenna Beamforming Analysis
+### Smart Antenna
 
 15소자 ULA 환경에서 Chebyshev 가중치 기반 빔패턴 형성, 빔 조향, 비등간격 배열의 Least Squares 가중치 보상을 분석한 MATLAB 프로젝트입니다.
 
